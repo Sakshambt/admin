@@ -1,5 +1,5 @@
 import React from 'react';
-import 'Employees.css';
+import './Employees.css';
 
 function Employees() {
   return (
